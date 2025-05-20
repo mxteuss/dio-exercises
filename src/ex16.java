@@ -15,9 +15,7 @@ public class ex16 {
         else if ( a == b || b == c || a == c ) {
             System.out.println("Esse triangulo é  Isósceles");
         }
-        else if (a != b && b != c && a != c) {
-            System.out.println("Esse triangulo é Escaleno");
-        }
+        else { System.out.println("Esse triangulo é Escaleno"); }
         sc.close();
 
     }

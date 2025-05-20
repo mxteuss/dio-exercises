@@ -12,7 +12,7 @@ public class ex03 {
             int c = a + b;
             System.out.println(c);
         }
-        else if (a != b) {
+        else {
             int c =  a * b;
             System.out.println(c);
         }

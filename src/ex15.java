@@ -1,5 +1,4 @@
 import java.time.LocalDate;
-import java.util.Date;
 import java.util.Scanner;
 public class ex15 {
     public static void main(String[] args) {
